@@ -3,6 +3,10 @@
 **Free Games** is a simple and user-friendly website that helps you discover all the free-to-play games available across different platforms — including Windows, macOS, Android, and more. No installation is required, just open and explore!
 
 ---
+## Github Repo
+
+https://github.com/SherifShamel/free_games.git
+
 
 ## 🌐 Live Demo
 
